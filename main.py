@@ -8,7 +8,7 @@ exactly the line's bytes and nothing else: no trailing newline.
 import os
 from pathlib import Path
 
-FORTUNE = "The code you forget today will come back to find you at 3 a.m."
+FORTUNE = "The code you forget will remember you at 3 a.m."
 
 
 def main() -> None:
